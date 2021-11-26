@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Rzzoo
 - 👀 I’m interested in developing discord bots on python
-- 🌱 I’m currently learning ctrl + c, ctrl + v
 - 📫 How to reach me: Wire: @vgast
 
 <!---
