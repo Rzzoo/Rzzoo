@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rzzoo
-- 👀 I’m interested in developing discord bots on python
-- 📫 How to reach me: Wire: @vgast
+- 👀 I’m interested in something
+- 📫 How to reach me: https://linktr.ee/rzzoo
 
 <!---
 Rzzoo/Rzzoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
